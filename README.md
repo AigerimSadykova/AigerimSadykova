@@ -22,18 +22,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
-<p align="left">Data Scientist<br><br>- <br>- <br>- </p>
+<p align="left">Data Scientist<br><br>Studying math deeply<br>- <br>- </p>
 
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- 
-
-###
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
