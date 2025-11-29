@@ -65,12 +65,14 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">GitHub Stats: </h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilimonovAlexey&show_icons=true&theme=tokyonight)
+
+<h3 align="left">Most used languages: </h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=tokyonight)
+
 
 ###
