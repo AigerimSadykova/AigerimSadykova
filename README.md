@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">Technologies:</h3>
 
 ###
 
