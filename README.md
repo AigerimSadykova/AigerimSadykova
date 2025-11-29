@@ -69,10 +69,9 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aigerimsadykova&show_icons=true&theme=tokyonight)
-###
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AigerimSadykova&show_icons=true&theme=tokyonight)
+
 <h3 align="left">Most used languages: </h3>
-###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AigerimSadykova&layout=compact&theme=tokyonight)
 
